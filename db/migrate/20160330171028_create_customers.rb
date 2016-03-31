@@ -1,0 +1,13 @@
+class CreateCustomers < ActiveRecord::Migration
+  def change
+    create_table :customers do |t|
+      t.integer :codigo
+      t.string :nombre
+      t.string :direccion
+      t.string :telefono
+      t.string :email
+
+      t.timestamps null: false
+    end
+  end
+end

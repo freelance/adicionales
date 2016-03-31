@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  codigo: 1
+  tipo: MyString
+  monto: 9.99
+  fecha: 2016-03-30 14:44:43
+  customer_id: 
+
+two:
+  codigo: 1
+  tipo: MyString
+  monto: 9.99
+  fecha: 2016-03-30 14:44:43
+  customer_id: 

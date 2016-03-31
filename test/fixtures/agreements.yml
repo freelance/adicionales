@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  codigo: 1
+  inicio: 2016-03-30 14:26:30
+  fin: 2016-03-30 14:26:30
+  customer_id: 
+  observaciones: MyText
+  estado: false
+
+two:
+  codigo: 1
+  inicio: 2016-03-30 14:26:30
+  fin: 2016-03-30 14:26:30
+  customer_id: 
+  observaciones: MyText
+  estado: false
